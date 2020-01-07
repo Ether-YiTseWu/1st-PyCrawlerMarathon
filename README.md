@@ -26,11 +26,11 @@ An Online Flipped Classroom relating to web crawler
 - [Day 15 實作 Day：金融資訊網頁爬蟲實作練習](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day015_HW.ipynb)
 - [Day 16 實作 Day：Wiki的爬蟲實作練習](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day016_HW.ipynb)
 ### Part03：動態網頁爬蟲技術
-- Day 17 HTTP 動態網頁架構說明與非同步取得資料
-- Day 18 瀏覽器開發者工具介紹
-- Day 19 動態網頁爬蟲 - 使用Selenium + BeautifulSoup 模擬瀏覽器執行
-- Day 20 動態網頁爬蟲 - 利用開發者工具，觀察模擬 API 存取
-- Day 21 實作 Day：ETTODAY 動態爬蟲實作練習
+- [Day 17 HTTP 動態網頁架構說明與非同步取得資料](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day017_HW.ipynb)
+- [Day 18 瀏覽器開發者工具介紹](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day018_HW.ipynb)
+- [Day 19 動態網頁爬蟲 - 使用Selenium + BeautifulSoup 模擬瀏覽器執行](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day019_HW.ipynb)
+- [Day 20 動態網頁爬蟲 - 利用開發者工具，觀察模擬 API 存取](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day020_HW.ipynb)
+- [Day 21 實作 Day：ETTODAY 動態爬蟲實作練習](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day021_HW.ipynb)
 - Day 22 實作 Day：空氣污染網站爬蟲實作練習
 - Day 23 實作 Day：東森新聞雲網站爬蟲實作練習
 - Day 24 實作 Day：104人力銀行網站爬蟲實作練習
