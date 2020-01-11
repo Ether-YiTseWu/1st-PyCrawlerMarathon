@@ -31,11 +31,19 @@ An Online Flipped Classroom relating to web crawler
 - [Day 19 動態網頁爬蟲 - 使用Selenium + BeautifulSoup 模擬瀏覽器執行](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day019_HW.ipynb)
 - [Day 20 動態網頁爬蟲 - 利用開發者工具，觀察模擬 API 存取](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day020_HW.ipynb)
 - [Day 21 實作 Day：ETTODAY 動態爬蟲實作練習](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day021_HW.ipynb)
-- Day 22 實作 Day：空氣污染網站爬蟲實作練習
-- Day 23 實作 Day：東森新聞雲網站爬蟲實作練習
-- Day 24 實作 Day：104人力銀行網站爬蟲實作練習
+- [Day 22 實作 Day：空氣污染網站爬蟲實作練習](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day022_HW.ipynb)
+- [Day 23 實作 Day：東森新聞雲網站爬蟲實作練習](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day023_HW.ipynb)
+- [Day 24 實作 Day：104人力銀行網站爬蟲實作練習](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day024_HW.ipynb)
 ### Part04：Scrapy網站爬蟲框架
 - Day 25 多網頁爬蟲實作策略介紹
+- Day 26 Scrapy 爬蟲流程(1):建立流程 + 送出請求
+- Day 27 Scrapy 爬蟲流程(2):XPath + Item Pipeline
+- Day 28 Scrapy 爬蟲流程(3):API
+- Day 29 Scrapy 爬蟲流程(4):多網頁爬蟲
 ### Part05：進階爬蟲技術
+- Day 30 爬蟲可能會遇到的問題
+- Day 31 反爬：瀏覽器標頭與基本資訊
+- Day 32 反爬：驗證碼處理
+- Day 33 反爬：登入授權模擬
 ### Part06：期末實戰專題
 >
