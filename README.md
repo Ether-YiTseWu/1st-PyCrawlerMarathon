@@ -2,10 +2,6 @@
 ## Overview
 An Online Flipped Classroom relating to web crawler. [Official website link](https://pycrawler.cupoy.com/)
 >
-
-## Mind Map
->
-
 ## Course Content
 ### Part01：爬蟲基礎知識
 - [Day 1 資料來源與檔案存取](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day001_HW.ipynb)
@@ -43,7 +39,7 @@ An Online Flipped Classroom relating to web crawler. [Official website link](htt
 ### Part05：進階爬蟲技術
 - [Day 30 爬蟲可能會遇到的問題](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day030_HW.ipynb)
 - [Day 31 反爬：瀏覽器標頭與基本資訊](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day031_HW.ipynb)
-- [Day 32 反爬：驗證碼處理](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day032_HW.ipynb)
+- [Day 32 反爬：驗證碼處理](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day032_HW%20.ipynb)
 - [Day 33 反爬：登入授權模擬](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day033_HW.ipynb)
 - Day 34 反爬：代理 IP
 - Day 35 加速：多線程爬蟲
