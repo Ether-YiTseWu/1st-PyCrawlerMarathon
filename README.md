@@ -41,9 +41,13 @@ An Online Flipped Classroom relating to web crawler. [Official website link](htt
 - [Day 28 Scrapy 爬蟲流程(3)：API](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day028_HW.ipynb)
 - [Day 29 Scrapy 爬蟲流程(4)：多網頁爬蟲](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day029_HW.ipynb)
 ### Part05：進階爬蟲技術
-- Day 30 爬蟲可能會遇到的問題
-- Day 31 反爬：瀏覽器標頭與基本資訊
-- Day 32 反爬：驗證碼處理
-- Day 33 反爬：登入授權模擬
+- [Day 30 爬蟲可能會遇到的問題](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day030_HW.ipynb)
+- [Day 31 反爬：瀏覽器標頭與基本資訊](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day031_HW.ipynb)
+- [Day 32 反爬：驗證碼處理](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day032_HW.ipynb)
+- [Day 33 反爬：登入授權模擬](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day033_HW.ipynb)
+- Day 34 反爬：代理 IP
+- Day 35 加速：多線程爬蟲
+- Day 36 加速：非同步爬蟲
+- Day 37 自動化更新機制(排程)
 ### Part06：期末實戰專題
 >
