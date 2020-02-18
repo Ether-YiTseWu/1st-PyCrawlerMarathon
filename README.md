@@ -49,7 +49,7 @@ An Online Flipped Classroom relating to web crawler. [Official website link](htt
 >
 ## Final project : Cupoy新聞爬蟲暨資料分析
 ### 摘要 :   
-利用 Python 爬取 Cupoy 上的新聞資訊，爾後再對新聞進行相關分析。最後成果為一圖形使用者介面，該介面可爬取並印出Cupoy的新聞種類、標題、簡介和網址。並對這些資料進行分析，進而能繪出圓餅圖、文字雲，分析情緒分數等等     
+利用 Python 爬取 Cupoy 上的新聞資訊，爾後再對新聞進行相關分析。最後成果為一圖形使用者介面，該介面可爬取並印出Cupoy的新聞種類、標題、簡介和網址。更進一步，能對這些資料進行分析，進而能繪出圓餅圖、文字雲，分析正面情緒機率等等     
 >
 ### 安裝方法 :    
 首先，需把程式內使用到的套件安裝起來。在 Anaconda Prompt 輸入下列命令即可
