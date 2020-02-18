@@ -48,10 +48,10 @@ An Online Flipped Classroom relating to web crawler. [Official website link](htt
 ### Part06：期末實戰專題
 >
 ## Final project : CUPOY新聞爬蟲暨資料分析
-- Goal :      
-本專題主要是利用Python爬取CUPOY上的新聞資訊，爾後再對新聞進行相關分析。整個專題可分為三大部分。第一部分是先獲得CUPOY前500篇新聞的種類、標題、簡介、網址等四項資料後，再使用適當的資料結構儲存，以利後續的資料展示及分析。第二部分則是把第一部分所獲得的資料做成表格、圓餅圖、文字雲，以方便人類觀察。另外，更以自然語言處理方法，對新聞的標題及簡介進行情緒分析，顯示這些文章為正面的機率為多少。第三部分則是整合第一部分和第二部分的內容，寫成圖形使用者介面(GUI)，一方面是為了便利性，使人不必進程式修改參數，也能進行爬蟲；另一方面，也讓使用者能自由選擇欲爬取的網址和欲爬取的新聞總數。最後，經過作者實測，發現只要網址連結是CUPOY上的新聞，不論是科技版、生活版還是3C達人版，都能夠成功爬取。文章總數也能自由調整，不限於篇數，10篇、30篇、250篇、1000篇都可，隨使用者喜好自由更改。[GUI download url](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/final%20project/Cupoy%20Web%20Crawler%20.py)
+- 摘要:      
+利用Python爬取CUPOY上的新聞資訊，爾後再對新聞進行相關分析。成果為一圖形使用者介面，該介面可爬取並印出CUPOY的新聞種類、標題、簡介和網址。並對這些資料進行分析，進而能繪出圓餅圖、文字雲，分析情緒分數，[GUI程式載點](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/final%20project/Cupoy%20Web%20Crawler%20.py)
 >
-- Method :    
+- 安裝方法 :    
 >
-- Result :        
+- 介面 :        
 >
