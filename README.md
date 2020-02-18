@@ -48,18 +48,20 @@ An Online Flipped Classroom relating to web crawler. [Official website link](htt
 ### Part06：期末實戰專題
 >
 ## Final project : CUPOY新聞爬蟲暨資料分析
-- 摘要:      
+### `摘要:`   
 利用Python爬取CUPOY上的新聞資訊，爾後再對新聞進行相關分析。成果為一圖形使用者介面，該介面可爬取並印出CUPOY的新聞種類、標題、簡介和網址。並對這些資料進行分析，進而能繪出圓餅圖、文字雲，分析情緒分數。    
 [GUI程式載點](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/final%20project/Cupoy%20Web%20Crawler%20.py)
 >
-- 安裝方法 :    
+### `安裝方法 : `   
 首先，需把程式內使用到的套件安裝起來。在Anaconda Prompt輸入下列命令即可。
-    `pip install selenium`     
-    `pip install BeautifulSoup`     
-    `pip install jieba`      
-    `pip install snownlp`        
-    `pip install wordcloud `         
+```python
+pip install selenium 
+pip install BeautifulSoup    
+pip install jieba    
+pip install snownlp        
+pip install wordcloud    
+```
 之後，再把chromedriver.exe、stopWords.txt
 >
-- 介面 :        
+### `介面 :`        
 >
