@@ -53,15 +53,20 @@ An Online Flipped Classroom relating to web crawler. [Official website link](htt
 [GUI程式載點](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/final%20project/Cupoy%20Web%20Crawler%20.py)
 >
 ### `安裝方法 : `   
-首先，需把程式內使用到的套件安裝起來。在Anaconda Prompt輸入下列命令即可。
-```python
+首先，需把程式內使用到的套件安裝起來。在 Anaconda Prompt 輸入下列命令即可。
+```
 pip install selenium 
 pip install BeautifulSoup    
 pip install jieba    
 pip install snownlp        
 pip install wordcloud    
 ```
-之後，再把chromedriver.exe、stopWords.txt
+之後，再把 chromedriver.exe、stopWords.txt 兩個檔案放進與 GUI 程式 (Cupoy Web Crawler.py) 相同的路徑底下。      
+最後，使用 Anaconda Prompt 移動至該路徑，再以「python Cupoy Web Crawler.py」執行即可。    
+```
+cd folder
+python Cupoy Web Crawler.py
+```
 >
 ### `介面 :`        
 >
