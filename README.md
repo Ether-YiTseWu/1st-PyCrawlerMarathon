@@ -60,7 +60,7 @@ pip install jieba
 pip install snownlp        
 pip install wordcloud    
 ```
-之後，從該載點 [GUI程式載點](https://github.com/tailer954/1st-PyCrawlerMarathon/tree/master/final%20project) ，下載 chromedriver.exe、stopWords.txt 與 GUI 程式 (Cupoy Web Crawler.py) 三個檔案，並將這三個檔案放進相同的路徑。最後，使用 Anaconda Prompt 移動至該路徑，再以「python Cupoy Web Crawler.py」執行程式，便能開啟GUI，介面如下圖所示    
+之後，從該載點 [GUI程式載點](https://github.com/tailer954/1st-PyCrawlerMarathon/tree/master/final%20project) ，下載 *chromedriver.exe*、*stopWords.txt* 與 *GUI 程式 (Cupoy Web Crawler.py)* 三個檔案，並將這三個檔案放進相同的路徑。最後，使用 Anaconda Prompt 移動至該路徑，再以「python Cupoy Web Crawler.py」執行程式，便能開啟GUI，介面如下圖所示    
 >
 Anaconda Prompt 指令
 ```
@@ -73,4 +73,4 @@ python Cupoy Web Crawler.py
 >
 ### 詳細說明 :  
 若想知道更多關於本專案的說明，請點擊右方連結 
-[Cupoy新聞爬蟲暨資料分析](https://www.cupoy.com/clubnews/ai_tw/0000016E62FB84E4000000026375706F795F72656C656173654B5741535354434C5542/00000170578F0BFE0000003F6375706F795F72656C656173654B5741535354434C55424E455753)
+[Cupoy新聞爬蟲暨資料分析](https://www.cupoy.com/clubnews/ai_tw/0000016E62FB84E4000000026375706F795F72656C656173654B5741535354434C5542/00000170578F0BFE0000003F6375706F795F72656C656173654B5741535354434C55424E455753) 查看
