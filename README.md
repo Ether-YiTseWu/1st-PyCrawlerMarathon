@@ -54,9 +54,12 @@ An Online Flipped Classroom relating to web crawler. [Official website link](htt
 >
 - 安裝方法 :    
 首先，需把程式內使用到的套件安裝起來。在Anaconda Prompt輸入下列命令即可。
-`pip install jieba` 
-`pip install snownlp` 
-`pip install wordcloud ` 
+    `pip install selenium`     
+    `pip install BeautifulSoup`     
+    `pip install jieba`      
+    `pip install snownlp`        
+    `pip install wordcloud `         
+之後，再把chromedriver.exe、stopWords.txt
 >
 - 介面 :        
 >
