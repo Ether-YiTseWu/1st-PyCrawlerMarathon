@@ -1,8 +1,7 @@
-# 1st-PyCrawlerMarathon
-## Overview
+# Overview
 An Online Flipped Classroom relating to web crawler. [Official website link](https://pycrawler.cupoy.com/)
 >
-## Course Content
+# Course Content
 ### Part01：爬蟲基礎知識
 - [Day 1 資料來源與檔案存取](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day001_HW.ipynb)
 - [Day 2 實作 Day：Python 下載CSV檔案與解析](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day002_HW.ipynb)
@@ -47,25 +46,25 @@ An Online Flipped Classroom relating to web crawler. [Official website link](htt
 - [Day 37 自動化更新機制(排程)](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day037_HW.ipynb)
 ### Part06：期末實戰專題
 >
-## Final project : Cupoy新聞爬蟲暨資料分析
+# Final project : Cupoy新聞爬蟲暨資料分析
 ### 摘要 :   
 利用 Python 爬取 Cupoy 上的新聞資訊，爾後再對新聞進行相關分析。最後成果為一圖形使用者介面，該介面可爬取並印出Cupoy的新聞種類、標題、簡介和網址。更進一步，能對這些資料進行分析，進而能繪出圓餅圖、文字雲，分析正面情緒機率等等     
 >
 ### 安裝方法 :    
 首先，需把程式內使用到的套件安裝起來。在 Anaconda Prompt 輸入下列命令即可
 ```
-pip install selenium 
-pip install BeautifulSoup    
-pip install jieba    
-pip install snownlp        
-pip install wordcloud    
+$ pip install selenium 
+$ pip install BeautifulSoup    
+$ pip install jieba    
+$ pip install snownlp        
+$ pip install wordcloud    
 ```
 之後，從該載點 [GUI程式載點](https://github.com/tailer954/1st-PyCrawlerMarathon/tree/master/final%20project) ，下載 ***chromedriver.exe***、***stopWords.txt***、***Cupoy Web Crawler.py*** 三個檔案，並將這三個檔案放進相同的路徑。最後，使用 Anaconda Prompt 移動至該路徑，再以「python Cupoy Web Crawler.py」執行程式，便能開啟 GUI，介面如下圖所示    
 >
-Anaconda Prompt 指令
 ```
-cd folder
-python Cupoy Web Crawler.py
+# Anaconda Prompt 指令
+$ cd folder
+$ python Cupoy Web Crawler.py
 ```
 >
 ### 介面 :       
