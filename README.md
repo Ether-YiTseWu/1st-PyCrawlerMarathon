@@ -46,7 +46,7 @@ An Online Flipped Classroom relating to web crawler. [Official website link](htt
 - [Day 37 自動化更新機制(排程)](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day037_HW.ipynb)
 ### Part06：期末實戰專題
 >
-# Final project : Cupoy新聞爬蟲暨資料分析
+# 期末專題 : Cupoy新聞爬蟲暨資料分析
 ### 摘要 :   
 利用 Python 爬取 Cupoy 上的新聞資訊，爾後再對新聞進行相關分析。最後成果為一圖形使用者介面，該介面可爬取並印出Cupoy的新聞種類、標題、簡介和網址。更進一步，能對這些資料進行分析，進而能繪出圓餅圖、文字雲，分析正面情緒機率等等     
 >
@@ -71,5 +71,5 @@ $ python Cupoy Web Crawler.py
 ![](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/final%20project/GUI_image.png)
 >
 ### 詳細說明 :  
-若想知道更多關於本專案的說明，請點擊右方連結 
-[Cupoy新聞爬蟲暨資料分析](https://www.cupoy.com/clubnews/ai_tw/0000016E62FB84E4000000026375706F795F72656C656173654B5741535354434C5542/00000170578F0BFE0000003F6375706F795F72656C656173654B5741535354434C55424E455753) 查看
+若想知道更多關於本專案的內容，請點擊右方連結 
+[Cupoy新聞爬蟲暨資料分析](https://www.cupoy.com/clubnews/ai_tw/0000016E62FB84E4000000026375706F795F72656C656173654B5741535354434C5542/00000170578F0BFE0000003F6375706F795F72656C656173654B5741535354434C55424E455753) 查看。若喜歡本專題，該篇文章及程式碼有幫助到你的話，請不吝順手點個點個Star哦
