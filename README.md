@@ -1,5 +1,5 @@
 # Overview
-An Online Flipped Classroom relating to web crawler. [Official website link](https://pycrawler.cupoy.com/)
+該專案的內容與「網路爬蟲」有關。以下的程式碼是一堂線上課程的作業，詳細請典籍右方連結 [官方網站連結](https://pycrawler.cupoy.com/) 查看
 >
 # Course Content
 ### Part01：爬蟲基礎知識
@@ -48,7 +48,7 @@ An Online Flipped Classroom relating to web crawler. [Official website link](htt
 >
 # 期末專題 : Cupoy新聞爬蟲暨資料分析
 ### 摘要 :   
-利用 Python 爬取 Cupoy 上的新聞資訊，爾後再對新聞進行相關分析。最後成果為一圖形使用者介面，該介面可爬取並印出Cupoy的新聞種類、標題、簡介和網址。更進一步，能對這些資料進行分析，進而能繪出圓餅圖、文字雲，分析正面情緒機率等等     
+利用 Python 爬取 Cupoy 上的新聞資訊，爾後再對新聞進行相關分析。最後成果為一圖形使用者介面，該介面可爬取並印出Cupoy的新聞種類、標題、簡介和網址。更進一步，能對這些資料進行分析，進而能繪出圓餅圖、文字雲，分析文章的正面情緒機率等等     
 >
 ### 安裝方法 :    
 首先，需把程式內使用到的套件安裝起來。在 Anaconda Prompt 輸入下列命令即可
