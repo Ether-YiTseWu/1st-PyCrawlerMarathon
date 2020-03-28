@@ -44,13 +44,12 @@
 - [Day 35 加速：多線程爬蟲](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day035_HW.ipynb)
 - [Day 36 加速：非同步爬蟲](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day036_HW.ipynb)
 - [Day 37 自動化更新機制(排程)](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/homework/Day037_HW.ipynb)
-### Part06：期末實戰專題
 >
 # 期末專題 : Cupoy新聞爬蟲暨資料分析
 ### 摘要 :   
 利用 Python 爬取 Cupoy 上的新聞資訊，爾後再對新聞進行相關分析。最後成果為一圖形使用者介面，該介面可爬取並印出Cupoy的新聞種類、標題、簡介和網址。更進一步，能對這些資料進行分析，進而能繪出圓餅圖、文字雲，分析文章的正面情緒機率等等     
 >
-### 程式安裝方法 :    
+### 安裝方法 :    
 該程式由本人撰寫，有興趣者可自由下載，以下提供安裝方法。首先，需把程式內使用到的套件安裝起來。在 Anaconda Prompt 輸入下列命令即可
 ```
 $ pip install selenium 
