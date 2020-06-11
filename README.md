@@ -69,6 +69,6 @@ $ python Cupoy Web Crawler.py
 ### 介面 :       
 ![](https://github.com/tailer954/1st-PyCrawlerMarathon/blob/master/final%20project/GUI_image.png)
 >
-### 詳細說明 :  
+### 補充說明 :  
 若想知道更多關於本專案的內容，請點擊右方連結 
 [Cupoy新聞爬蟲暨資料分析](https://www.cupoy.com/clubnews/ai_tw/0000016E62FB84E4000000026375706F795F72656C656173654B5741535354434C5542/00000170578F0BFE0000003F6375706F795F72656C656173654B5741535354434C55424E455753) 查看。若喜歡本專題，該篇文章及程式碼有幫助到你的話，請不吝順手點個Star哦
